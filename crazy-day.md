@@ -19,8 +19,8 @@
 ![网吧周边](https://mmbiz.qpic.cn/mmbiz_jpg/FrlMmzeTicAAzpTeK1vpQlF69gNNF1M3tqlkFrbichScgiamQfrmsfdeUogMbpBL9B4mNfTPjoS2gH67ibiaQKfBYwg/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=5)
 
 ### 网吧
-准备打MC，[恋还是练](https://mp.weixin.qq.com/s?__biz=MzA5OTA2ODYzMg==&mid=2672809580&idx=1&sn=6c417c710d331c33dfb39afc7371b2e4&chksm=8bb1a12bf8a8a178c976373c91e8bb6f0fae65169ce2d03190442386bd2f7f7b0a7b426356c4&scene=27)
-<a id="jump_8"></a>
+准备打MC，[恋还是练](https://mp.weixin.qq.com/s?__biz=MzA5OTA2ODYzMg==&mid=2672809580&idx=1&sn=6c417c710d331c33dfb39afc7371b2e4&chksm=8bb1a12bf8a8a178c976373c91e8bb6f0fae65169ce2d03190442386bd2f7f7b0a7b426356c4&scene=27)  
+然后呢？
 当然是来网吧写个酣畅淋漓的 python 小脚本
 
 ```python
